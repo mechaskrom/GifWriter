@@ -1,0 +1,5 @@
+C:\Users\usera\Documents\Projects github\GifWriter\GifWriter\bin\Debug\GifWriter.exe
+C:\Users\usera\Documents\Projects github\GifWriter\GifWriter\bin\Debug\GifWriter.pdb
+C:\Users\usera\Documents\Projects github\GifWriter\GifWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usera\Documents\Projects github\GifWriter\GifWriter\obj\Debug\GifWriter.exe
+C:\Users\usera\Documents\Projects github\GifWriter\GifWriter\obj\Debug\GifWriter.pdb
