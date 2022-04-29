@@ -1,7 +1,7 @@
 # GifWriter
 A simple animated GIF writer written in C#.
 
-# Example Usage
+## Example Usage
 ```csharp
 //Create a palette.
 Color[] palette = new Color[256];
